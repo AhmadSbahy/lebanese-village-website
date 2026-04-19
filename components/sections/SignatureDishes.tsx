@@ -135,11 +135,6 @@ function DishCard({
         }}
       />
 
-      {/* Number badge */}
-      <div className="absolute top-5 start-5 text-[var(--bg)]/80 text-[10px] tracking-[0.2em] uppercase">
-        N° {String(index + 1).padStart(2, "0")}
-      </div>
-
       {/* Name + caption */}
       <div className="absolute bottom-0 inset-x-0 p-6 md:p-7 text-[var(--bg)]">
         <h3 className="font-display text-[24px] md:text-[30px] lg:text-[34px] leading-[1.05] text-[var(--bg)]">

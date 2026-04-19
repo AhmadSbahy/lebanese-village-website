@@ -57,8 +57,8 @@ export function MenuSection() {
           >
             {/* Tab header strip */}
             <div
-              className="flex gap-2 overflow-x-auto px-4 md:px-6 py-4 border-b border-[var(--border)] justify-center"
-              style={{ scrollbarWidth: "none" }}
+              className="flex gap-2 overflow-x-auto px-4 md:px-6 py-4 border-b border-[var(--border)] md:justify-center"
+              style={{ scrollbarWidth: "none", WebkitOverflowScrolling: "touch" } as React.CSSProperties}
               role="tablist"
               aria-label="Menu categories"
             >
