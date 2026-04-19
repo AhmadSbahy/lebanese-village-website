@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { useTranslations, useLocale } from "next-intl";
 import { Phone, Menu as MenuIcon, X } from "lucide-react";
 import { LangToggle } from "./LangToggle";
+import { Logo } from "@/components/brand/Logo";
 import { restaurant } from "@/data/restaurant";
 import { cn } from "@/lib/cn";
 
@@ -45,12 +46,12 @@ export function Navbar() {
         )}
       >
         <div className="container-px max-w-7xl mx-auto flex items-center justify-between h-16 md:h-20">
-          <a
-            href="#top"
-            className="font-display text-[22px] md:text-[24px] leading-none text-[var(--ink)] tracking-tight"
-          >
-            <span className="italic headline-italic">Lebanese</span>{" "}
-            <span className="font-medium">Village</span>
+          <a href="#top" className="flex items-center gap-3">
+            <Logo size={44} />
+            <span className="font-display text-[22px] md:text-[24px] leading-none text-[var(--ink)] tracking-tight">
+              <span className="italic headline-italic">Lebanese</span>{" "}
+              <span className="font-medium">Village</span>
+            </span>
           </a>
 
           <nav className="hidden lg:flex items-center gap-10">
@@ -119,9 +120,12 @@ export function Navbar() {
         >
           <div className="grain-overlay" aria-hidden="true" />
           <div className="relative flex items-center justify-between p-6">
-            <span className="font-display text-xl">
-              <span className="italic headline-italic">Lebanese</span> Village
-            </span>
+            <div className="flex items-center gap-3">
+              <Logo size={38} />
+              <span className="font-display text-xl">
+                <span className="italic headline-italic">Lebanese</span> Village
+              </span>
+            </div>
             <button
               onClick={() => setOpen(false)}
               className="h-10 w-10 inline-flex items-center justify-center rounded-full
