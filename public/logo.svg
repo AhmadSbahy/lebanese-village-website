@@ -1,0 +1,21 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <circle cx="60" cy="60" r="57" stroke="currentColor" stroke-width="1"/>
+  <circle cx="60" cy="60" r="52" stroke="currentColor" stroke-width="0.4" stroke-dasharray="1 2"/>
+  <g stroke="currentColor" stroke-width="1" stroke-linecap="round">
+    <path d="M 26 62 Q 60 50 94 62" fill="none"/>
+  </g>
+  <g fill="currentColor">
+    <ellipse cx="36" cy="58.5" rx="4.2" ry="1.9" transform="rotate(-22 36 58.5)"/>
+    <ellipse cx="46" cy="55.5" rx="4.6" ry="2.1" transform="rotate(-14 46 55.5)"/>
+    <ellipse cx="56" cy="53.2" rx="5" ry="2.3" transform="rotate(-4 56 53.2)"/>
+    <ellipse cx="66" cy="53.2" rx="5" ry="2.3" transform="rotate(4 66 53.2)"/>
+    <ellipse cx="76" cy="55.5" rx="4.6" ry="2.1" transform="rotate(14 76 55.5)"/>
+    <ellipse cx="86" cy="58.5" rx="4.2" ry="1.9" transform="rotate(22 86 58.5)"/>
+    <circle cx="52" cy="61.5" r="1.6"/>
+    <circle cx="60" cy="62.5" r="1.8"/>
+    <circle cx="68" cy="61.5" r="1.6"/>
+  </g>
+  <text x="60" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="6.4" letter-spacing="2.4" fill="currentColor">EST · MUSCAT</text>
+  <text x="60" y="83" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="14" fill="currentColor">Village</text>
+  <text x="60" y="97" text-anchor="middle" font-family="Georgia, serif" font-size="6.2" letter-spacing="3" fill="currentColor">LEBANESE</text>
+</svg>

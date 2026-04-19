@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "story": "Our Story",
+    "gallery": "Gallery",
+    "visit": "Visit",
+    "callNow": "Call Now",
+    "directions": "Get Directions",
+    "language": "عربي"
+  },
+  "hero": {
+    "eyebrow": "Muscat · Since 1998",
+    "titleLine1": "A taste of",
+    "titleItalic": "the village.",
+    "titleLine2": "Served with soul.",
+    "subtitle": "Authentic Lebanese mezze, wood-fired grills, and family recipes carried from Beirut to the heart of Oman.",
+    "cta1": "Explore the Menu",
+    "cta2": "Find Us",
+    "scrollHint": "Scroll to discover"
+  },
+  "story": {
+    "eyebrow": "Our Story",
+    "title": "From a Beirut kitchen",
+    "titleItalic": "to your table.",
+    "paragraph1": "Lebanese Village began as a promise — that every plate should taste of the land it came from. We press our own labneh, hand-roll our kibbeh, and grill over lump charcoal the way our grandparents did.",
+    "paragraph2": "In Muscat, we've gathered three decades of recipes into one long, generous table. Sit, share, and stay a while. That is how we eat in the village.",
+    "quote": "\"The table is where a Lebanese home truly speaks.\"",
+    "quoteAuthor": "— Ammo Khalil, founder"
+  },
+  "signature": {
+    "eyebrow": "Signature Dishes",
+    "title": "The plates",
+    "titleItalic": "we're known for."
+  },
+  "menu": {
+    "eyebrow": "The Menu",
+    "title": "A village table,",
+    "titleItalic": "generously set.",
+    "subtitle": "Pick a few to share. Lebanese food is best when the plates keep coming.",
+    "priceSuffix": "OMR",
+    "categories": {
+      "mezze": "Mezze",
+      "grills": "Grills",
+      "shawarma": "Shawarma",
+      "manakish": "Manakish",
+      "desserts": "Desserts",
+      "drinks": "Drinks"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "A few moments",
+    "titleItalic": "from the village."
+  },
+  "visit": {
+    "eyebrow": "Visit",
+    "title": "Come find us",
+    "titleItalic": "in Muscat.",
+    "addressLabel": "Address",
+    "address": "New Lebanese Village, 4312, Muscat, Oman",
+    "hoursLabel": "Hours",
+    "hours": "Every day · 12:00 — 23:30",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "instagramLabel": "Instagram",
+    "directionsCta": "Open in Google Maps"
+  },
+  "footer": {
+    "tagline": "Lebanese Village — Muscat",
+    "rights": "© 2026 Lebanese Village. All rights reserved.",
+    "madeWith": "Crafted with care in Muscat."
+  }
+}
